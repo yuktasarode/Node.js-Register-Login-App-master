@@ -1,4 +1,4 @@
-# Node.js-Register-Login-App
+# SimpleLogin
 
 This is a user login and registration app using Node.js, Express, Mongoose, EJS and express-sessions.
 
