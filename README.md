@@ -19,6 +19,10 @@ npm install
 ```
 nodemon server.js
 ```
+or
+```
+node server.js
+```
 
 Code is Running on 
 + http://localhost:3000/
