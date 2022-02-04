@@ -1,0 +1,31 @@
+body{
+	text-align: center !important;
+	background-color: rgb(198, 190, 241);
+	
+
+}
+p{
+	margin-top: 20px;
+	font-size: 30px;
+}
+input{
+	text-align: center;
+}
+#LangTable{
+    margin-bottom: 15px;
+}
+.form-card{
+    background-color: #ffffff;
+    border-radius: 30px;
+    margin-top: 130px;
+	margin-left: 90px;
+	margin-right: 50px;
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+.sofia{
+	font-family: "Sofia", sans-serif;
+}
